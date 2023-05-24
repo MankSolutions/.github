@@ -1,4 +1,4 @@
-## Hi! Welcome to White Ficus 👋
+## Hi! Welcome to Mank Solutions 👋
 
 ### ✔️ Our Mission
 We exist to transform the next generation of IT through automation and DevOps, while serving others in the global community in the name of Jesus Christ.
